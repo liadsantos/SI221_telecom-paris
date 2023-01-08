@@ -1,4 +1,4 @@
-# SI221
+# SI221 - Télécom Paris
 
 SI221 - Introduction to Machine Learning
 
